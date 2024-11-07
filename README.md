@@ -1,3 +1,10 @@
+- ⛺ 如果你期望使用 Astro + MDX 技术栈
+- 🌆 如果你希望在博客中增加一点不一样的东西
+- 😍 欢迎来使用和反馈新主题 [astro-theme-mia](https://github.com/infinity-ooo/astro-theme-mia)
+- 🚅 Astro 相比 Hexo 性能更强，MDX 提供的能力可实现更强大的交互能力
+
+---
+
 ![hexo-theme-apollo](https://cloud.githubusercontent.com/assets/9530963/13026956/08e76eca-d277-11e5-8bfc-2e80cea20a0d.png)
 
 ## 文档
@@ -7,11 +14,9 @@
 
 ## 贡献
 
-该项目不再接受添加新特性、功能的 pull request，所有创造性的想法请 fork 该项目之后自由发挥。
+通过 Fork 该项目，自由发挥自己的创造性想法可能更适合你。
 
 ## 安装
-
-[![asciicast](https://asciinema.org/a/emrvroa9054hz6k8ise0uxh2u.png)](https://asciinema.org/a/emrvroa9054hz6k8ise0uxh2u)
 
 ``` bash
 hexo init Blog 
